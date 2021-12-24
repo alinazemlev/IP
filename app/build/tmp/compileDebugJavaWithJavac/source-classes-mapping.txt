@@ -1,0 +1,19 @@
+com/hse/TfFaceRec/BuildConfig.java
+ com.hse.TfFaceRec.BuildConfig
+com/hse/TfFaceRec/MainActivity.java
+ com.hse.TfFaceRec.MainActivity
+ com.hse.TfFaceRec.MainActivity$1
+ com.hse.TfFaceRec.MainActivity$2
+ com.hse.TfFaceRec.MainActivity$3
+ com.hse.TfFaceRec.MainActivity$4
+ com.hse.TfFaceRec.MainActivity$5
+com/hse/TfFaceRec/Classifier.java
+ com.hse.TfFaceRec.Classifier
+ com.hse.TfFaceRec.Classifier$Recognition
+com/hse/TfFaceRec/TensorFlowImageClassifier.java
+ com.hse.TfFaceRec.TensorFlowImageClassifier
+ com.hse.TfFaceRec.TensorFlowImageClassifier$1
+com/hse/TfFaceRec/TensorFlowImageFeatureExtractor.java
+ com.hse.TfFaceRec.TensorFlowImageFeatureExtractor
+com/hse/TfFaceRec/DetectionBasedTracker.java
+ com.hse.TfFaceRec.DetectionBasedTracker

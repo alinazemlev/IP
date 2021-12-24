@@ -1,0 +1,198 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: armeabi-v7a",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1822202065
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\build\\.cxx\\Debug\\o2w714f6\\armeabi-v7a\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -790285417
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\build\\.cxx\\Debug\\o2w714f6\\armeabi-v7a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1581120623
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\build\\.cxx\\Debug\\o2w714f6\\armeabi-v7a\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 484282255
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1809675712
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\build\\.cxx\\Debug\\o2w714f6\\armeabi-v7a\u0027",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1581939405
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\build\\.cxx\\Debug\\o2w714f6\\armeabi-v7a\u0027",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 140304193
+  },
+  {
+    "level_": 0,
+    "message_": "executing ndkBuild Executable : C:\\Users\\notamedia\\AndroidSdk\\ndk\\21.4.7075529\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dC:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Android.mk\nNDK_APPLICATION_MK\u003dC:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Application.mk\nAPP_ABI\u003darmeabi-v7a\nNDK_ALL_ABIS\u003darmeabi-v7a\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-24\nNDK_OUT\u003dC:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\build\\intermediates\\cxx\\Debug\\o2w714f6/obj\nNDK_LIBS_OUT\u003dC:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\build\\intermediates\\cxx\\Debug\\o2w714f6/lib\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1038718704
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : C:\\Users\\notamedia\\AndroidSdk\\ndk\\21.4.7075529\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dC:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Android.mk\nNDK_APPLICATION_MK\u003dC:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Application.mk\nAPP_ABI\u003darmeabi-v7a\nNDK_ALL_ABIS\u003darmeabi-v7a\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-24\nNDK_OUT\u003dC:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\build\\intermediates\\cxx\\Debug\\o2w714f6/obj\nNDK_LIBS_OUT\u003dC:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\build\\intermediates\\cxx\\Debug\\o2w714f6/lib\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1488577181
+  },
+  {
+    "level_": 0,
+    "message_": "parse and convert ndk-build output to build configuration JSON",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 252192399
+  },
+  {
+    "level_": 0,
+    "message_": "found application make file C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Application.mk",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1907319351
+  },
+  {
+    "level_": 0,
+    "message_": "done executing ndkBuild",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2117038965
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\build\\.cxx\\Debug\\o2w714f6\\armeabi-v7a\\metadata_generation_command.txt",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1812588127
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognitionTest\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -859564751
+  }
+]

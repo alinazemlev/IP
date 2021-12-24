@@ -1,0 +1,1 @@
+C:\Users\notamedia\AndroidStudioProjects\temp\AndroidTensorFlowFaceRecognitionTest\opencv\libcxx_helper\CMakeLists.txt

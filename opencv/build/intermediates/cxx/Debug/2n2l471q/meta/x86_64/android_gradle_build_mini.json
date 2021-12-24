@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\opencv\\libcxx_helper\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\notamedia\\AndroidSdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\opencv\\.cxx\\Debug\\2n2l471q\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\notamedia\\AndroidSdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\opencv\\.cxx\\Debug\\2n2l471q\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared-Debug-x86_64": {
+      "artifactName": "opencv_jni_shared",
+      "buildCommandComponents": [
+        "C:\\Users\\notamedia\\AndroidSdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\opencv\\.cxx\\Debug\\2n2l471q\\x86_64",
+        "opencv_jni_shared"
+      ],
+      "abi": "x86_64",
+      "output": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\opencv\\.cxx\\Debug\\2n2l471q\\x86_64\\libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}

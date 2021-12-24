@@ -1,0 +1,198 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: x86_64",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1870116023
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\build\\.cxx\\Debug\\2q373p10\\x86_64\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 688424262
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\build\\.cxx\\Debug\\2q373p10\\x86_64\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1473199092
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\build\\.cxx\\Debug\\2q373p10\\x86_64\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 731559058
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1626040437
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\build\\.cxx\\Debug\\2q373p10\\x86_64\u0027",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1301251972
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\build\\.cxx\\Debug\\2q373p10\\x86_64\u0027",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1223262600
+  },
+  {
+    "level_": 0,
+    "message_": "executing ndkBuild Executable : C:\\Users\\notamedia\\AndroidSdk\\ndk\\21.4.7075529\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dC:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Android.mk\nNDK_APPLICATION_MK\u003dC:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Application.mk\nAPP_ABI\u003dx86_64\nNDK_ALL_ABIS\u003dx86_64\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-24\nNDK_OUT\u003dC:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\build\\intermediates\\cxx\\Debug\\2q373p10/obj\nNDK_LIBS_OUT\u003dC:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\build\\intermediates\\cxx\\Debug\\2q373p10/lib\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1876992385
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : C:\\Users\\notamedia\\AndroidSdk\\ndk\\21.4.7075529\\ndk-build.cmd\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003dC:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Android.mk\nNDK_APPLICATION_MK\u003dC:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Application.mk\nAPP_ABI\u003dx86_64\nNDK_ALL_ABIS\u003dx86_64\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-24\nNDK_OUT\u003dC:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\build\\intermediates\\cxx\\Debug\\2q373p10/obj\nNDK_LIBS_OUT\u003dC:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\build\\intermediates\\cxx\\Debug\\2q373p10/lib\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 311242316
+  },
+  {
+    "level_": 0,
+    "message_": "parse and convert ndk-build output to build configuration JSON",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 68557124
+  },
+  {
+    "level_": 0,
+    "message_": "found application make file C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Application.mk",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -856156124
+  },
+  {
+    "level_": 0,
+    "message_": "done executing ndkBuild",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1933403690
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\build\\.cxx\\Debug\\2q373p10\\x86_64\\metadata_generation_command.txt",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1471173690
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\notamedia\\AndroidStudioProjects\\temp\\AndroidTensorFlowFaceRecognition\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1043200026
+  }
+]

@@ -1,0 +1,2 @@
+C:\Users\notamedia\AndroidStudioProjects\temp\AndroidTensorFlowFaceRecognitionTest\app\src\main\jni\Android.mk
+C:\Users\notamedia\AndroidStudioProjects\temp\AndroidTensorFlowFaceRecognitionTest\app\src\main\jni\Application.mk

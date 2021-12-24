@@ -1,0 +1,1 @@
+C:\Users\notamedia\AndroidStudioProjects\temp\AndroidTensorFlowFaceRecognition\opencv\build\intermediates\cxx\Debug\2n2l471q\obj\x86_64

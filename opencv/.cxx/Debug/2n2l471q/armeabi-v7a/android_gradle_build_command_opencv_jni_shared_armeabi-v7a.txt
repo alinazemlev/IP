@@ -1,0 +1,7 @@
+Executable : C:\Users\notamedia\AndroidSdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\notamedia\AndroidStudioProjects\temp\AndroidTensorFlowFaceRecognition\opencv\.cxx\Debug\2n2l471q\armeabi-v7a
+opencv_jni_shared
+jvmArgs : 
+

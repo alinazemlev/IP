@@ -1,0 +1,3 @@
+[x86_64] Compile++      : OpenCvDetectionLib <= com_hse_TfFaceRec_DetectionBasedTracker.cpp
+[x86_64] Prebuilt       : libopencv_java4.so <= C:/Users/notamedia/AndroidStudioProjects/temp/OpenCV-android-sdk//sdk/native/jni/../libs/x86_64/
+[x86_64] SharedLibrary  : libOpenCvDetectionLib.so

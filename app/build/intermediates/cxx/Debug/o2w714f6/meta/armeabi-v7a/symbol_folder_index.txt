@@ -1,0 +1,1 @@
+C:\Users\notamedia\AndroidStudioProjects\temp\AndroidTensorFlowFaceRecognitionTest\app\build\intermediates\cxx\Debug\o2w714f6\obj\local\armeabi-v7a

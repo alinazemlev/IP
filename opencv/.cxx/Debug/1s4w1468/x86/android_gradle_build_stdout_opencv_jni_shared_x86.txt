@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\notamedia\AndroidStudioProjects\temp\AndroidTensorFlowFaceRecognitionTest\opencv\.cxx\Debug\1s4w1468\x86'
+ninja: no work to do.

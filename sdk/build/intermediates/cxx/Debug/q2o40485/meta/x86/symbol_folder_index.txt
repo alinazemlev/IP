@@ -1,0 +1,1 @@
+C:\Users\notamedia\AndroidStudioProjects\temp\AndroidTensorFlowFaceRecognitionTest\sdk\build\intermediates\cxx\Debug\q2o40485\obj\x86

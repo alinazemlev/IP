@@ -1,0 +1,3 @@
+C:/Users/notamedia/AndroidStudioProjects/temp/AndroidTensorFlowFaceRecognitionTest/opencv/.cxx/Debug/1s4w1468/x86/CMakeFiles/opencv_jni_shared.dir
+C:/Users/notamedia/AndroidStudioProjects/temp/AndroidTensorFlowFaceRecognitionTest/opencv/.cxx/Debug/1s4w1468/x86/CMakeFiles/edit_cache.dir
+C:/Users/notamedia/AndroidStudioProjects/temp/AndroidTensorFlowFaceRecognitionTest/opencv/.cxx/Debug/1s4w1468/x86/CMakeFiles/rebuild_cache.dir
